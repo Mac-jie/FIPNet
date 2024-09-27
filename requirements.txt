@@ -1,0 +1,6 @@
+﻿pillow
+torchvision
+torch
+numpy
+opencv-python
+timm
