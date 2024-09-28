@@ -1,9 +1,6 @@
 # FIPNet
 Official code of "FIPNet: Self-Supervised Low-Light Image Enhancement Combining Feature and Illumination Priors". (The code will be released following the article accepted)
 
-# Network Architecture
-![overall_arc](https://github.com/user-attachments/assets/229c1ce9-3375-49ce-8a22-3562551b0c2b)
-
 
 # Project Setup
 This is a Pytorch implementation of FIPNet.
